@@ -1,0 +1,7 @@
+C:\Users\kozak.tician\Desktop\8feladat\8feladat\obj\Debug\8feladat.csprojResolveAssemblyReference.cache
+C:\Users\kozak.tician\Desktop\8feladat\8feladat\obj\Debug\8feladat.csproj.CoreCompileInputs.cache
+C:\Users\kozak.tician\Desktop\8feladat\8feladat\bin\Debug\8feladat.exe.config
+C:\Users\kozak.tician\Desktop\8feladat\8feladat\bin\Debug\8feladat.exe
+C:\Users\kozak.tician\Desktop\8feladat\8feladat\bin\Debug\8feladat.pdb
+C:\Users\kozak.tician\Desktop\8feladat\8feladat\obj\Debug\8feladat.exe
+C:\Users\kozak.tician\Desktop\8feladat\8feladat\obj\Debug\8feladat.pdb
